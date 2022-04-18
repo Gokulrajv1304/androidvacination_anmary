@@ -1,9 +1,9 @@
-        /********************************************************
-         * 		AppCoordinator.swift(FindVaxCenterActivity)     *
-         * 		COMP313.Section. 002                            *
-         * 		Created by Group5 on 12.04.2022                 *
-         * 		Locating nearby vaccination centers             *
-         ********************************************************/
+        /*********************************************************
+         * 		AppCoordinator.swift(FindVaxCenterActivity)      *
+         * 		COMP313.Section. 002                             *
+         * 		Created by Group5 on 12.04.2022                  *
+         * 	   	Locating nearby vaccination centers              *
+         *********************************************************/
 
 package com.example.vac_check;
 
